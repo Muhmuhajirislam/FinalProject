@@ -1,0 +1,39 @@
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csprojAssemblyReference.cache
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+D:\Tugas\Pemograman\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+C:\Users\Lenovo\Downloads\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csprojAssemblyReference.cache
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+D:\19.11.2595\SEMESTER 2\pemrograman - kamarudin\uas\fix\Final project\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
